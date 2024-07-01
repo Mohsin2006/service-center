@@ -1,4 +1,3 @@
-import React from 'react'
 import "./Dashboard.css"
 import Card from '../../components/Card/Card'
 const Dashboard = () => {
